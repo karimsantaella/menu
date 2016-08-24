@@ -14,7 +14,7 @@ Inicio
 							<br /><br /><br /><br /><br /><br />
 							<img src="images/plantilla/logo_visor_color.png">
 							<br /><br /><br /><br /><br /><br /> 
-							Realizar llamada
+							Realizar llamada Interprete LSCH
 						</td>						
 						<td>
 
