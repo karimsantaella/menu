@@ -1,0 +1,93 @@
+.fondo_menu ul li a.active {
+    background-color: #333333;
+    color: white;
+}
+
+.fondo_menu ul li a {
+    background-color: #333333;
+    color: white;
+}
+.fondo_menu ul li a.hover {
+    background-color: #333333;
+    color: white;
+}
+.fondo_menu ul li a.visite {
+    background-color: #333333;
+    color: white;
+}
+body {
+    background-color: #333333 !important; 
+}
+
+.fondo_triangulos {
+    background-color: #333333;
+    background-image: url(/menu_visor2/public/images/plantilla/fondo_triangulos.png);
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    min-height: 700px !important;
+}
+
+.texto_centrado {
+    text-align: center;
+}
+
+.boton_azul_sombrai, .boton_azul_sombra:link, .boton_azul_sombra:visited {
+    color:#FFFFFF;
+    background-color:#2387C9;  
+    /*box-shadow:0 8px 16px 0 rgba(0,0,0,0.6),0 6px 20px 0 rgba(0,0,0,0.5);*/
+    box-shadow:0 8px 16px 0 rgba(0,0,0,0.5),0 6px 20px 0 rgba(0,0,0,0.2);
+    border-radius: 20px;
+    border-color: #2387C9;
+}
+
+.boton_azul_sombra:hover, .boton_azul_sombra:active {
+     background-color:#2387C9;
+     color:#FFF;  
+     box-shadow:0 8px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+a.boton_azul_sombra {
+     margin:10px 5px 0 0;
+}
+
+.fondo_texto_usuario {
+    background-color:#fff;  
+    width: 100px;
+    top: -10px;
+    left: 73px;
+    height: 40px;
+    position: relative;
+    box-shadow:0 8px 10px 0 rgba(0,0,0,0.4),0 6px 10px 0 rgba(0,0,0,0.4);
+    text-align: left;
+    padding-left: 10px;
+
+
+
+    background-image: url(/menu_visor2/public/images/plantilla/barra_vertical.png);
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+
+}
+
+#logo_visor_blanco {
+  top:10px;
+}
+
+/*
+.sin_bordes th {
+  border-top: 0px !important;
+}
+*/
+
+.sin_bordes td, .sin_bordes th {
+    border: none;
+}
+
+.navbar_visor {
+  background-color: #333;
+  border-color: #333;
+}
